@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>id</key>
+            <string>500300100211</string>
+            <key>name</key>
+            <string>Heathrow Airport</string>
+            <key>city</key>
+            <string>Hilingdon, London</string>
+            <key>code</key>
+            <string>LHR/KLAX</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100212</string>
+            <key>name</key>
+            <string>Hartsfield–Jackson Airport</string>
+            <key>city</key>
+            <string>Atlanta, Georgia</string>
+            <key>code</key>
+            <string>ATL/KATL</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100213</string>
+            <key>name</key>
+            <string>Beijing Capital Airport</string>
+            <key>city</key>
+            <string>Chaoyang-Shunyi, Beijing</string>
+            <key>code</key>
+            <string>PEK/ZBAA</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100214</string>
+            <key>name</key>
+            <string>Los Angeles International Airport</string>
+            <key>city</key>
+            <string>Los Angeles, California</string>
+            <key>code</key>
+            <string>LAX/KLAX</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100215</string>
+            <key>name</key>
+            <string>Dubai International Airport</string>
+            <key>city</key>
+            <string>Garhoud, Dubai</string>
+            <key>code</key>
+            <string>DXB/OMDB</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100216</string>
+            <key>name</key>
+            <string>Tokyo Haneda Airport</string>
+            <key>city</key>
+            <string>Ōta, Tokyo</string>
+            <key>code</key>
+            <string>HND/RJTT</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100217</string>
+            <key>name</key>
+            <string>O'Hare International Airport</string>
+            <key>city</key>
+            <string>Chicago, Illinois</string>
+            <key>code</key>
+            <string>ORD/KORD</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100218</string>
+            <key>name</key>
+            <string>Charles de Gaulle Airport</string>
+            <key>city</key>
+            <string>Roissy-en-France</string>
+            <key>code</key>
+            <string>CDG/LFPG</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100219</string>
+            <key>name</key>
+            <string>Dallas/Fort Worth Airport</string>
+            <key>city</key>
+            <string>Dallas-Fort Worth, Texas</string>
+            <key>code</key>
+            <string>DFW/KDFW</string>
+        </dict>
+        <dict>
+            <key>id</key>
+            <string>500300100220</string>
+            <key>name</key>
+            <string>Amsterdam Airport Schiphol</string>
+            <key>city</key>
+            <string>Haarlemmermeer, North Holland</string>
+            <key>code</key>
+            <string>AMS/EHAM</string>
+        </dict>
+    </array>
+</plist>
