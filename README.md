@@ -7,6 +7,9 @@ Tcig technical challenge application created for demo purposes.
 ## Demo
 <img src="https://media.giphy.com/media/7yUlSmCzh3wubJjyqJ/giphy.gif" width="250" height="500" />
 
+## Calendar Demo
+<img src="https://media.giphy.com/media/zssRLtBXgtHkTCwFGQ/giphy.gif" width="250" height="500" />
+
 ## Features
 
 - [x] Search Page Design
